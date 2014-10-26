@@ -51,9 +51,9 @@ Acknowledgements
 
 Final notes
 ===========
--If you are an owner of a laboratory or you are interested in GoLab an you have any question about the integration of my laboratory, please, don't hesitate to send me and email and I'll try to help you with your laboratory.<br>
+-If you are an owner of a laboratory or you are interested in GoLab an you have any question about the integration of my laboratory, please, don't hesitate to send me and email/message (https://github.com/GermanCF) and I'll try to help you with your laboratory.<br>
 -I'll invite you as owner of a laboratory to take in contact with me, or GoLab, to following my steps to integrate your existing laboratory or to develop a new laboartory using this code repository.<br>
--If you have any question about my SiLaRR System (remember, with the original HTTP protocols, not websockets) or my hardware scheme of Robotic Arm, led RGB, or servo motor laboratories with Arduino, you can send me and email/message (https://github.com/GermanCF) or go to my website to known more about them: https://sourceforge.net/projects/silarr/<br>
+-If you have any question about my SiLaRR System (Ph. D. Thesys with the original HTTP protocols, not websockets) or my hardware scheme of Robotic Arm, led RGB, or servo motor laboratories with Arduino, you can send me and email/message or go to my website to known more about them: https://sourceforge.net/projects/silarr/<br>
 
 Finally, as owner of a laboratory all of us want that our designs will be usefull for other people, Go-Lab project looks for this objective and can spread your development among thousand of Schools/Academic institutions around the world. Now you have this step more closer with this repostory. Think about it!.
 
