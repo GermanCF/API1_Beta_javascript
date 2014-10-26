@@ -2,7 +2,7 @@ Content and services description
 ================================
 This is the main folder of the system. These folders contents the files for server and the files for client side.<br>
 
-Note: you should change the IP and PORT from websocket of the files *.*js and *.*html.<br> 
+Note: you should change the IP and PORT, for your Raspberry Pi IP and PORT, into websocket reference of the files *.*js and *.*html.<br> 
 
 This folder contains:
 
